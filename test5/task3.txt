@@ -1,0 +1,5 @@
+Kuznecov 100000
+Osorin 150000
+Muhametova 85000
+Romanov 300000
+Isaak 15000
