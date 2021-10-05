@@ -1,3 +1,4 @@
+
 class Cell:
 
     def __init__(self, cell_count):
@@ -54,3 +55,4 @@ print()
 print(a / b)
 print()
 print(a.make_order(3))
+
