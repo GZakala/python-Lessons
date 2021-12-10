@@ -1,6 +1,7 @@
 from abc import ABC, abstractmethod
 
 
+
 class Cloth(ABC):
 
     count = 0
